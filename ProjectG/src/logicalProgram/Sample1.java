@@ -26,6 +26,7 @@ public class Sample1 {
 		System.out.println("rakesh");
 		System.out.println("yes");
 		System.out.println("do");
+		System.out.println("ok");
 	}
 
 }
