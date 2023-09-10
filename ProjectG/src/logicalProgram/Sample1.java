@@ -4,6 +4,7 @@ public class Sample1 {
 	public static void main(String[] args) {
 		int no=11;
 		 int count=0;
+		 System.out.println("hi");
 		for(int i=2;i<no-1;i++)
 		{		if(no%i==0)
 			{
