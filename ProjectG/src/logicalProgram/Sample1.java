@@ -5,6 +5,7 @@ public class Sample1 {
 		int no=11;
 		 int count=0;
 		 System.out.println("hi");
+		 System.out.println("all");
 		for(int i=2;i<no-1;i++)
 		{		if(no%i==0)
 			{
