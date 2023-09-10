@@ -18,7 +18,8 @@ public class Sample1 {
 		{
 			System.out.println("no is prime");
 		}
-		
+		System.out.println("hi");
+		System.out.println("all");
 		
 	}
 
