@@ -25,6 +25,7 @@ public class Sample1 {
 		System.out.println("how are u");
 		System.out.println("rakesh");
 		System.out.println("yes");
+		System.out.println("do");
 	}
 
 }
